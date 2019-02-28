@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_crop.png",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/drawable-ldpi-v4/ucrop_ic_crop.png"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_reset.png",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/drawable-ldpi-v4/ucrop_ic_reset.png"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_cross.png",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/drawable-ldpi-v4/ucrop_ic_cross.png"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_arrow_back_black_24dp.png",
+        "source": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/node_modules/react-native-navigation/lib/android/app/build/intermediates/packaged_res/reactNative56/release/drawable-ldpi-v4/ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_rotate.png",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_next.png",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/drawable-ldpi-v4/ucrop_ic_next.png"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_scale.png",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/drawable-ldpi-v4/ucrop_ic_scale.png"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    }
+]

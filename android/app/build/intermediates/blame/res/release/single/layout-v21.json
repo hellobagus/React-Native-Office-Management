@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/82dbf566b76142961ea41f1019c1bd97/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/82dbf566b76142961ea41f1019c1bd97/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.8.aar/f30a043638c47c9774ada7340dab528b/res/layout-v21/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/82dbf566b76142961ea41f1019c1bd97/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/82dbf566b76142961ea41f1019c1bd97/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout-v21/bottom_navigation_item.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.8.aar/f30a043638c47c9774ada7340dab528b/res/layout-v21/bottom_navigation_item.xml"
+    }
+]

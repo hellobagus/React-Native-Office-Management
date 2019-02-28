@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/design_error.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5f4eca7fa1afe89844b1e9b378e17e2f/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5f4eca7fa1afe89844b1e9b378e17e2f/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/ucrop_scale_text_view_selector.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/color/ucrop_scale_text_view_selector.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5f4eca7fa1afe89844b1e9b378e17e2f/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/color/design_tint_password_toggle.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/color/design_tint_password_toggle.xml"
+    }
+]

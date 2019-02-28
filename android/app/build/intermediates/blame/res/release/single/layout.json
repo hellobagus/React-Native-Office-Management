@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/dbc8a20cf71ce735ca1445716f218bd5/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/spinner_item.xml",
+        "source": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/node_modules/react-native-picker-module/android/build/intermediates/packaged_res/release/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/dbc8a20cf71ce735ca1445716f218bd5/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/dev_loading_view.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/e6845cca0fa80f8f7f8fa2da8ac28393/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/redbox_item_frame.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/e6845cca0fa80f8f7f8fa2da8ac28393/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/redbox_view.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/e6845cca0fa80f8f7f8fa2da8ac28393/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_tooltip.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/ucrop_layout_rotate_wheel.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/layout/ucrop_layout_rotate_wheel.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/fps_view.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/e6845cca0fa80f8f7f8fa2da8ac28393/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/bottom_navigation_item.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.8.aar/f30a043638c47c9774ada7340dab528b/res/layout/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/dbc8a20cf71ce735ca1445716f218bd5/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/ucrop_aspect_ratio.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/layout/ucrop_aspect_ratio.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/e6845cca0fa80f8f7f8fa2da8ac28393/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/82dbf566b76142961ea41f1019c1bd97/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/ucrop_fragment_photobox.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/layout/ucrop_fragment_photobox.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/ucrop_controls.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/layout/ucrop_controls.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/bottom_navigation_small_item.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.8.aar/f30a043638c47c9774ada7340dab528b/res/layout/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/dbc8a20cf71ce735ca1445716f218bd5/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/82dbf566b76142961ea41f1019c1bd97/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/82dbf566b76142961ea41f1019c1bd97/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/dbc8a20cf71ce735ca1445716f218bd5/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/dbc8a20cf71ce735ca1445716f218bd5/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/spinner_view.xml",
+        "source": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/node_modules/react-native-picker-module/android/build/intermediates/packaged_res/release/layout/spinner_view.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/design_text_input_password_icon.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/dbc8a20cf71ce735ca1445716f218bd5/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/82dbf566b76142961ea41f1019c1bd97/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/ucrop_view.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/layout/ucrop_view.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/dbc8a20cf71ce735ca1445716f218bd5/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/ucrop_layout_scale_wheel.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/layout/ucrop_layout_scale_wheel.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/dbc8a20cf71ce735ca1445716f218bd5/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/82dbf566b76142961ea41f1019c1bd97/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/layout/ucrop_activity_photobox.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/layout/ucrop_activity_photobox.xml"
+    }
+]

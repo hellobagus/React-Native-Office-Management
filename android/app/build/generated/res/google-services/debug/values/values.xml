@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">733523149966-kb90mguqr11qmr3ee8d9d14d9pqq7b1m.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ifcao-733fc.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">733523149966</string>
+    <string name="google_api_key" translatable="false">AIzaSyBUbwvrRxPy3lbp_2BlPhxIMVx88CkUeEc</string>
+    <string name="google_app_id" translatable="false">1:733523149966:android:43f07c18646eb1c1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBUbwvrRxPy3lbp_2BlPhxIMVx88CkUeEc</string>
+    <string name="google_storage_bucket" translatable="false">ifcao-733fc.appspot.com</string>
+    <string name="project_id" translatable="false">ifcao-733fc</string>
+</resources>

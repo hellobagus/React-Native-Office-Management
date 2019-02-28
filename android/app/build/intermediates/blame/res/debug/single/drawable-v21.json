@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/82dbf566b76142961ea41f1019c1bd97/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/drawable-v21/item_background.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.8.aar/f30a043638c47c9774ada7340dab528b/res/drawable-v21/item_background.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/e6845cca0fa80f8f7f8fa2da8ac28393/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/node_modules/rn-fetch-blob/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
+    }
+]

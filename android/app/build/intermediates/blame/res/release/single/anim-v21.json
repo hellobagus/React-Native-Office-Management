@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

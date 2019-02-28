@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml",
+        "source": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/node_modules/react-native-navigation/lib/android/app/build/intermediates/packaged_res/reactNative56/debug/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

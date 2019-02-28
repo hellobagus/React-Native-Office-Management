@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "733523149966",
+    "firebase_url": "https://ifcao-733fc.firebaseio.com",
+    "project_id": "ifcao-733fc",
+    "storage_bucket": "ifcao-733fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733523149966:android:43f07c18646eb1c1",
+        "android_client_info": {
+          "package_name": "com.ifcaproperty.ifcamobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733523149966-kb90mguqr11qmr3ee8d9d14d9pqq7b1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUbwvrRxPy3lbp_2BlPhxIMVx88CkUeEc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

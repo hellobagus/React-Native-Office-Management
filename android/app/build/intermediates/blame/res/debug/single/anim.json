@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/fab_slide_in_from_right.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/84389499b7f7bff534350579e2c4cfd5/res/anim/fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/fab_scale_down.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/84389499b7f7bff534350579e2c4cfd5/res/anim/fab_scale_down.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_scale.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/abc_tooltip_exit.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/e6845cca0fa80f8f7f8fa2da8ac28393/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/abc_tooltip_enter.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/node_modules/react-native-navigation/lib/android/app/build/intermediates/packaged_res/reactNative56/debug/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/e6845cca0fa80f8f7f8fa2da8ac28393/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/e6845cca0fa80f8f7f8fa2da8ac28393/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/fab_slide_out_to_left.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/84389499b7f7bff534350579e2c4cfd5/res/anim/fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/e6845cca0fa80f8f7f8fa2da8ac28393/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/fab_scale_up.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/84389499b7f7bff534350579e2c4cfd5/res/anim/fab_scale_up.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/fab_slide_out_to_right.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/84389499b7f7bff534350579e2c4cfd5/res/anim/fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/node_modules/react-native-navigation/lib/android/app/build/intermediates/packaged_res/reactNative56/debug/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/fab_slide_in_from_left.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/84389499b7f7bff534350579e2c4cfd5/res/anim/fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/e6845cca0fa80f8f7f8fa2da8ac28393/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/e6845cca0fa80f8f7f8fa2da8ac28393/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4fbd6dbdb6d27f453e76e0e8feca5d4f/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_path.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/8eedcafbf2806acdd5abe249f6885620/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/Users/hanan/Documents/Project-ReactNative/ifcaoplus/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/hanan/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/ed6c91eeba8ad1349a86f3beadd7bd3c/res/anim/design_bottom_sheet_slide_in.xml"
+    }
+]
